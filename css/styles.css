@@ -46,6 +46,11 @@ body {
 a {
     color: #11999E;
     font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EAF6F6;
 }
 
 hr {
@@ -84,7 +89,7 @@ h2 {
 h3 {
     color: #11999E;
     font-family: 'Montserrat', sans-serif;
-    font-size: 1.5rem;
+    font-size: 1.5em;
     padding-top: 1em;
     margin-bottom: 0px;
     font-weight: normal;
