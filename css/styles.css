@@ -162,6 +162,7 @@ h3 {
 .project-image {
     margin-top: 25px;
     margin-right: 20px;
+    margin-left: -15px;
     text-align: center;
     float: left;
 }
