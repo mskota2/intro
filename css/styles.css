@@ -12,12 +12,12 @@ body {
   }
 
 .intro {
-    width: 50%;
+    width: 65%;
     margin: auto;
 }
 
 .outro {
-    width: 60%;
+    width: 65%;
     margin: 20px auto;
 }
 
@@ -115,7 +115,7 @@ p {
 }
 
 .skill-row {
-    width: 50%;
+    width: 65%;
     margin: 45px auto 45px auto;
     text-align: left;
 }
