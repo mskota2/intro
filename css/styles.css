@@ -136,7 +136,7 @@ h3 {
     border-radius: 8px;
     font-family: 'Montserrat', sans-serif;
     color: #ffffff;
-    font-size: 1em;
+    font-size: 0.8em;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
   }
@@ -152,7 +152,7 @@ h3 {
   }
 
   .language-image {
-    margin-top: 20px;
+    margin-top: 25px;
     margin-right: 20px;
     text-align: center;
     float: left;
@@ -162,20 +162,20 @@ h3 {
 .project-image {
     margin-top: 25px;
     margin-right: 20px;
-    margin-left: -15px;
+    margin-left: -25px;
     text-align: center;
     float: left;
 }
 
 .python-image {
-    margin-top: 20px;
+    margin-top: 25px;
     margin-left: 20px;
     text-align: center;
     float: right;
 }
 
 .guitar-image {
-    margin-top: 20px;
+    margin-top: 25px;
     margin-left: 20px;
     text-align: center;
     float: right;
