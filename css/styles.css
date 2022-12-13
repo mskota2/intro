@@ -102,11 +102,9 @@ h3 {
 }
 
 
-
-
 .top-cloud {
-    position: absolute;
-    right: 300px;
+    position: relative;
+    right: -300px;
     top: 20px;
 }
 
@@ -114,6 +112,10 @@ h3 {
     position: relative;
     bottom: 300px;
     left: -50px;
+}
+
+.mountain {
+    margin-right: 120px;
 }
 
 .skill-row {
